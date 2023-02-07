@@ -1,0 +1,24 @@
+/* Denna fil skall innehålla din CSS kod */
+body {
+    background-color:rgb(168, 47, 255);
+}
+
+h1 {
+    width:75%;
+    height:200px;
+    /*border: solid 2px green;*/
+    border-style: solid;
+    border-width: 2px;
+    border-color: green;
+    background-color: rgba(255,0,0,0.8);
+}
+
+#blockis {
+    background: hotpink;
+    width:50%;
+}
+
+span {
+    background-color: rgb(255,232,123);
+    
+}

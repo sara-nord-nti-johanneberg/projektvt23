@@ -1,0 +1,32 @@
+#container {
+    display: grid;
+    background: red;
+    height:100vh;
+    grid-template-columns:2fr 1fr 1fr 1fr 1fr;
+    grid-template-rows:100px auto 50px;
+    grid-template-areas:
+    'hd hd hd hd hd'
+    'mn mn mn as as'
+    'ft ft ft ft ft';
+}
+
+header {
+    grid-area: hd;
+    background: hotpink;
+}
+
+main {
+    grid-area: mn;
+    background:blue;
+    overflow:scroll;
+}
+
+aside {
+    grid-area: as;
+    background:greenyellow;
+}
+
+footer {
+    grid-area: ft;
+    background-color: lightcoral;
+}
