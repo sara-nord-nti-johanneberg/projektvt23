@@ -37,3 +37,15 @@ Du ska planera, utveckla, testa och utvärdera en hemsida åt en tänkt kund. De
 - [ ] En hemsida för ditt framtida företag/portfolio.
 
 Din webbsida ska ha en tydlig seriös målgrupp. Undvik “hittepå-företag” och spelsidor, tex gör inte en hemsida om ditt favoritspel. Varför då? Jo, det blir lätt en samling av bilder / texter som blir svårt att göra till “din egen”.
+
+
+### Kravspecifikation för E-nivå
+- [ ] Hemsidan ska vara utformad för desktop eller mobiltelefon (behöver ej vara båda).
+- [ ] Hemsidan ska ha 2 sidor som det går att navigera mellan.
+- [ ] Layouten på hemsidan ska vara skapad med CSS Grid eller CSS Flex.
+- [ ] På sidorna ska du visa formatering av text och bilder på ett passande sätt. 
+- [ ] Använd bilder du har rätt att använda - egna eller från tex unsplash.com. Bilderna skall använda alt-attributet.
+- [ ] Utvecklingsdagbok skrivs varje arbetstillfälle i dokumentet på classroom.
+- [ ] Spela in film (screencast) på slutprodukten, lägg i misc-mappen
+- [ ] Deadline: fredag vecka 13: 31 mars 2023
+OBS: För E-nivå behöver du inte ha med responsiv layout med MediaQueries, Bildbehandling i Photoshop samt Javascript. 
