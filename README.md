@@ -1,15 +1,14 @@
 # Projektarbete vårterminen WU VT23 (fler detaljer finns på classroom samt dokumentationen)
 
-## Kravspecifikation :
-Längre ner i dokumentet finns en förkortad kravspecifikation för E-nivå.
-Responsivitet (mobil + desktop) för högre betyg. Mobile first!
-Hemsidan ska vara minst 4 sidor (inkl startsidan), för A-nivå.
-Utvecklingsdagbok skrivs varje arbetstillfälle i dokumentet på classroom.
-(Planering (skisser, idéer, målgrupp etc) 
-Grafik skapas i PS, PSD-filer läggs i misc-mappen (stora filer på classroom)
-Använd bilder du har rätt att använda - egna eller från tex unsplash.com. (alt fria från andra sidor, du skall kunna redogöra för vart dina bilder kommer ifrån)
-Spela in film (screencast) på slutprodukten, lägg i misc-mappen/classrooM
-Deadline: fredag vecka 13: 31 mars 2023
+## Kravspecifikation (för högre betyg):
+
+- [ ] Responsivitet (mobil + desktop) för högre betyg. Mobile first!
+- [ ] Hemsidan ska vara minst 4 sidor (inkl startsidan), för A-nivå.
+- [ ] Utvecklingsdagbok skrivs varje arbetstillfälle i dokumentet på classroom. (Planering (skisser, idéer, målgrupp etc) 
+- [ ] Grafik skapas i PS, PSD-filer läggs i misc-mappen (stora filer på classroom)
+- [ ] Använd bilder du har rätt att använda - egna eller från tex unsplash.com. (alt fria från andra sidor, du skall kunna redogöra för vart dina bilder kommer ifrån)
+- [ ] Spela in film (screencast) på slutprodukten, lägg i misc-mappen/classrooM
+- [ ] Deadline: fredag vecka 13: 31 mars 2023
 
 ## Varför gör vi detta projekt?
 I detta projekt kommer du lära dig att sätta samman en större webbsida bestående av html och css. Du har även möjlighet att tillämpa enkla javascript för att skapa funktionalitet på webbsidan. Webbutveckling handlar mycket om planering och problemlösning.
