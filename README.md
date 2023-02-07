@@ -16,11 +16,11 @@ I detta projekt kommer du lära dig att sätta samman en större webbsida bestå
 Efter genomfört projekt kommer du att ha en tydligare förståelse för vad det innebär att planera och genomföra ett större verkligt projekt samt övat på problemlösning. Du kommer även ha en ökad förståelse för hur html, css och javascript samspelar för att bygga en helhet. Du kommer även att få en ökad förståelse för hur sidor anpassas för respektive enhet.
 
 ## INPUT-reflektion
-Vilka svårigheter hade du i förra projektet?
-Vilka lärdomar drog du i förra projektet som du inte får glömma bort i detta?
-Vilka ramar (förutsättningar, hinder, möjligheter) finns i detta projekt?
-Vilka kunskaper har jag redan som jag kan använda mig av i detta projekt?
-Vad kommer bli min utmaning denna gång?
+- [ ] Vilka svårigheter hade du i förra projektet?
+- [ ] Vilka lärdomar drog du i förra projektet som du inte får glömma bort i detta?
+- [ ] Vilka ramar (förutsättningar, hinder, möjligheter) finns i detta projekt?
+- [ ] Vilka kunskaper har jag redan som jag kan använda mig av i detta projekt?
+- [ ] Vad kommer bli min utmaning denna gång?
 
 
 ## GitHub
@@ -31,10 +31,9 @@ Läs denna instruktion till GitHub om du är osäker hur det funkar, och be om h
 Uppgiftsbeskrivning
 Du ska planera, utveckla, testa och utvärdera en hemsida åt en tänkt kund. Det skulle till exempel kunna vara:
 
-
-En hemsida för schackklubben du spelar i på torsdagar.
-En hemsida för din släkt.
-En hemsida åt ett företag/förening (frisör, bostadsbolag, klubb, orkester)
-En hemsida för ditt framtida företag/portfolio.
+- [ ] En hemsida för schackklubben du spelar i på torsdagar.
+- [ ] En hemsida för din släkt.
+- [ ] En hemsida åt ett företag/förening (frisör, bostadsbolag, klubb, orkester)
+- [ ] En hemsida för ditt framtida företag/portfolio.
 
 Din webbsida ska ha en tydlig seriös målgrupp. Undvik “hittepå-företag” och spelsidor, tex gör inte en hemsida om ditt favoritspel. Varför då? Jo, det blir lätt en samling av bilder / texter som blir svårt att göra till “din egen”.
