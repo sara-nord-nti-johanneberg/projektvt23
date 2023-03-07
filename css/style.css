@@ -1,1 +1,77 @@
-/* Denna fil skall innehålla din CSS kod */
+footer {
+    grid-area: ft;
+    background-color: #60adc0;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+section h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
+    font-size: 100px 
+    
+    
+
+}
+body {
+    background-color: #ffd301;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 0;;
+}
+@media screen and (max-width:700px) {
+    
+    body {
+        background-color: purple;
+    }
+
+}
+#wrapper {
+margin-top: 0%;
+}
+
+header{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background-image:url(../img/croppedgul.jpg);
+    
+
+    height: 17rem;
+}
+#hambuger {
+    /* border: 1px brown; */
+    height: 1.5rem;
+    width: 2..2rem;
+    position: absolute;
+    top: 0.7rem;
+    right: 0.7rem;
+}
+#hamburger div {
+    border: 2px palevioletred;
+    margin: 0.3rem;
+}
+#line2 {
+    border-color: chartreuse;
+}
+nav ul {
+    display: block;
+    padding: 0;
+}
+nav ul li{
+    text-align: center;
+}
+nav ul li a {
+    width: 100%;
+    height: 100%;
+}
+nav ul li:hover {
+    background-color: #c80e35;
+}
